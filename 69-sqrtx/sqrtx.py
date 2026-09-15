@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
 
-        low=0
+        low=1
         high=x
         ans=0
         while(low<=high):
